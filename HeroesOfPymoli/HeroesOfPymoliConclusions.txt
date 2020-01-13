@@ -1,0 +1,9 @@
+Heroes Of Pymoli Conclusions:
+
+Men make up the majority of players accounting for more than 84% of players in the data set. 
+
+Players ages 20-24 years old make up the majority of players in the data set accounting for 44.79% of the total player count in the data set.
+
+Players ages 20-24 years old also bring in the most revenue through a higher number of purchases overall. While players ages 35-39 years old tend to spend more on average per purchase than those ages 20-24 years old. 
+
+- Topias Lemetyinen
